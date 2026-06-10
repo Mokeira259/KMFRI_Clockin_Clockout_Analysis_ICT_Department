@@ -19,6 +19,10 @@ _Give a photographic description
 _Give my recommendation from the findings
 
 
+#Findings
+
+
+
 #Dataset
  dataset contains;
 -Names
